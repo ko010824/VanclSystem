@@ -1,0 +1,32 @@
+body,div,p,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,tr,td,input,select,textarea,figure{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+body{
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    background:#f0f0f8;
+}
+a{
+    text-decoration: none;
+    outline: 0;
+    color: #696969;
+}
+li{
+    list-style:none;
+}
+img{
+    border:none;
+}
+*,::after,::before{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*::selection{
+    background: orangered;
+    color: #fff;
+}

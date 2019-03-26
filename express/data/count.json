@@ -1,0 +1,20 @@
+{
+  "topdata": [
+    {"title": "新增用户","finish": 610,"other": 390},
+    {"title": "用户使用率","finish": 780,"other": 220},
+    {"title": "今日成交量","finish": 560,"other": 440},
+    {"title": "今日成交金额","finish": 750,"other": 250},
+    {"title": "今日退货量","finish": 340,"other": 660},
+    {"title": "今日在售商品量","finish": 850,"other": 150}
+  ],
+  "bottomdata": [
+    {"value": [35, 35, 30],
+      "legend": ["凡客女装", "凡客男装", "凡客童装"],
+      "color": ["#fe233d", "#4ac4f1", "#ffe048"]
+    },
+    {"value": [15, 35, 50],
+      "legend": ["家居用品", "凡客内衣", "凡客女鞋"],
+      "color": ["#48ff8d", "#fe233d", "#01d2d0"]
+    }
+  ]
+}
